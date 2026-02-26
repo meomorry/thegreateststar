@@ -1,17 +1,4 @@
 <p align="center">
-  There was a time i ruled the skies
-</p>
-<p align="center">
-  Covered in shades of blue
-</p>
-<p align="center">
-   Monochromatic it's purely dramatic
-</p>
-<p align="center">
-    ...As étoile.
-</p>
-
-<p align="center">
  <img src="https://github.com/user-attachments/assets/c090a119-5096-4a75-832b-69bbe69d5205" />
 </p>
 
@@ -36,5 +23,17 @@ I'm often offtab or afk and i may not reply.
   <img src="https://github.com/user-attachments/assets/d1aabb6d-d4f1-4ed3-b6af-8408114f8f1d" />
 </p>
 
+<p align="center">
+  There was a time i ruled the skies
+</p>
+<p align="center">
+  Covered in shades of blue
+</p>
+<p align="center">
+   Monochromatic it's purely dramatic
+</p>
+<p align="center">
+    ...As étoile.
+</p>
 
 ###### HOW IT WORKED HELP
